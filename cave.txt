@@ -1,0 +1,2 @@
+#!/bin/bash 
+"you are trapped in cave, you can hear distant screams, far far into the distance."

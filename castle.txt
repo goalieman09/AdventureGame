@@ -1,0 +1,2 @@
+#!/bin/bash 
+"You are stranded in a castle, 3 floors up. No way down."
